@@ -17,6 +17,7 @@ BFH/recYaoh3oz4eZD1DN/2021
 
 VIDEO TO LINK
 
+https://www.loom.com/share/603a46617abc4c58bf540e550cdfbb33
 
 HOW THE PROGRAM WORKS
  
