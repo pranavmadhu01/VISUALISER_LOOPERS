@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title" style="color:#f8f8f8">
+    WELCOME, <b>(:{{name}}:)</b></h1><br><br>
+    <form action = "/success" method = "post" enctype="multipart/form-data">
+        <input type="file" id="thefile" accept="audio/*" />
+    </form>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My website</title>
+	<style>
+
+  form{
+	color:white;
+	font-size:40px;
+  }
+
+        #thefile {
+  position: fixed;
+  top: 55%;
+  left: 45%;
+  z-index: 100;
+}
+
+#canvas {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+audio {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
+  width: calc(100% - 20px);
+}
+    </style>
+	<script src="{{url_for('static', filename='index.js')}}"></script>
+</head>
+<body>
+
+<!--	<a href="logout.php">Logout</a>-->
+<!--	<h1>This is the index page</h1>-->
+
+<!--	<br>-->
+<!--	Hello, <?php echo $user_data['user_name']; ?>-->
+
+<!--	<input type="file" id="thefile" accept="audio/*" />-->
+  <canvas id="canvas"></canvas>
+  <audio id="audio" controls></audio>
+</body>
+</html>
+
+{% endblock %}
