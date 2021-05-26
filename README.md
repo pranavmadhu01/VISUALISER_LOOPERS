@@ -32,13 +32,20 @@ LIBRARIES USED
 
 flask
 
-  
-  
+OTHER LANGUAGES USED 
 
+Javascript
+Html
+  
+ To start:
+ 
+       pip install -r requirements.txt [or] pip3 install -r requirements.txt
+       
+After installing the required libraries run the program.
 
 
 DESIGN AND FEATURES
-This visualiaser is the very first project we have done.We  learned a lot and have tried our maximum to produce  the best we could
+This visualiaser is the very first project we have done.We  learned a lot and have tried our maximum to produce  the best we could.
 
 It is possible to login and create an account it is also possible to get the best music visualization experience
 
