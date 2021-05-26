@@ -7,9 +7,9 @@ A unique and kick-ass audio visualizer, to add some pizzazz to your tunes! .
 
 TEAM MEMBERS
 
-1.PRANAV MADHU
-2.NIYA SHEENO THEKKATH
-3.MEGHA THOMAS
+1.PRANAV MADHU.
+2.NIYA SHEENO THEKKATH.
+3.MEGHA THOMAS.
 
 TEAM ID
 
