@@ -54,8 +54,10 @@ This visualiaser is the very first project we have done.We  learned a lot and ha
 
 It is possible to login and create an account it is also possible to get the best music visualization experience
 
+We can MANAGE USERS by using "DB Browser (SQLCipher)"download link :https://sqlitebrowser.org/dl/
 
-CLOSING COMMENT
+
+
 
 Thank you for checking out my work/experiment! 
 Have fun and keep on trying our project!
