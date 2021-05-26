@@ -31,6 +31,10 @@ HOW THE PROGRAM WORKS
 LIBRARIES USED
 
 flask
+flask-sqlalchemy
+flask-login
+werkzeug
+pandas
 
 
 OTHER LANGUAGES USED 
