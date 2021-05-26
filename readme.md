@@ -39,7 +39,7 @@ pandas
 
 OTHER LANGUAGES USED 
 
-Javascript
+Javascript and 
 Html
   
  To start:
