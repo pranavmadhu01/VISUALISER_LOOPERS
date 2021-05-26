@@ -30,10 +30,10 @@ HOW THE PROGRAM WORKS
 
 LIBRARIES USED
 
-flask
-flask-sqlalchemy
-flask-login
-werkzeug
+flask,
+flask-sqlalchemy,
+flask-login,
+werkzeug,
 pandas
 
 
